@@ -1,7 +1,16 @@
 [package]
-name = "mclip"
+name = "rscopy"
 version = "0.1.0"
-edition = "2024"
+edition = "2021"
+
+authors = ["Morten T. R. Sunde <mtrsunde@gmail.com>"]
+description = "A simple Rust implementation of pbcopy 🦀📋."
+repository = "https://github.com/mortentobias/rscopy"
+homepage = "https://github.com/mortentobias/rscopy"
+documentation = "https://docs.rs/rscopy"
+readme = "README.md"
+keywords = ["clipboard", "pbcopy", "pasteboard", "rust", "cli"]
+categories = ["command-line-utilities"]
 
 [dependencies]
 clipboard = "0.5.0"
