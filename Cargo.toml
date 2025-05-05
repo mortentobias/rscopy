@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 
 authors = ["Morten T. R. Sunde <mtrsunde@gmail.com>"]
+license = "MIT"
 description = "A simple Rust implementation of pbcopy 🦀📋."
 repository = "https://github.com/mortentobias/rscopy"
 homepage = "https://github.com/mortentobias/rscopy"
